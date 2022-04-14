@@ -1,0 +1,14 @@
+2022-04-11 13:47:01,434, [INFO], catapult, position:-0.026, velocity: 00.058, current: -07.738, mechpower:0000.198, power:0000.630, rpm:0075.073
+2022-04-11 13:47:01,461, [INFO], catapult, position:-0.019, velocity: 00.622, current: -13.587, mechpower:0003.500, power:0005.401, rpm:0208.740
+2022-04-11 13:47:01,492, [INFO], catapult, position:-0.001, velocity: 00.963, current: -21.841, mechpower:0013.928, power:0018.834, rpm:0472.412
+2022-04-11 13:47:01,521, [INFO], catapult, position:0.040, velocity: 01.800, current: -24.041, mechpower:0032.435, power:0042.406, rpm:0718.689
+2022-04-11 13:47:01,561, [INFO], catapult, position:0.125, velocity: 02.826, current: -25.518, mechpower:0063.584, power:0084.972, rpm:1117.859
+2022-04-11 13:47:01,588, [INFO], catapult, position:0.216, velocity: 03.706, current: -22.860, mechpower:0088.325, power:0113.777, rpm:1388.855
+2022-04-11 13:47:01,616, [INFO], catapult, position:0.334, velocity: 04.518, current: -23.927, mechpower:0114.738, power:0147.292, rpm:1647.949
+2022-04-11 13:47:01,644, [INFO], catapult, position:0.467, velocity: 05.291, current: -25.645, mechpower:0138.997, power:0182.622, rpm:1918.945
+2022-04-11 13:47:01,669, [INFO], catapult, position:0.620, velocity: 06.018, current: -24.119, mechpower:0166.408, power:0215.445, rpm:2136.841
+2022-04-11 13:47:01,696, [INFO], catapult, position:0.788, velocity: 06.752, current: -24.413, mechpower:0194.149, power:0251.293, rpm:2377.625
+2022-04-11 13:47:01,724, [INFO], catapult, position:0.969, velocity: 07.556, current: -24.914, mechpower:0226.791, power:0292.731, rpm:2637.635
+2022-04-11 13:47:01,752, [INFO], catapult, position:1.196, velocity: 08.277, current: -26.905, mechpower:0255.423, power:0326.853, rpm:2866.516
+2022-04-11 13:47:01,783, [INFO], catapult, position:1.451, velocity: 08.923, current: -12.878, mechpower:0230.680, power:0291.227, rpm:2994.690
+2022-04-11 13:47:01,874, [INFO], catapult, position:1.719, velocity: 09.077, current: -09.781, mechpower:0111.845, power:0096.509, rpm:3013.001

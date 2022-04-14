@@ -1,0 +1,16 @@
+2022-04-11 16:46:10,769, [INFO], catapult, position:-0.000, velocity: 00.041, current: -12.023, mechpower:0000.560, power:0001.301, rpm:0100.708
+2022-04-11 16:46:10,792, [INFO], catapult, position:0.007, velocity: 00.523, current: -18.128, mechpower:0004.243, power:0005.973, rpm:0259.094
+2022-04-11 16:46:10,812, [INFO], catapult, position:0.023, velocity: 01.018, current: -20.019, mechpower:0011.556, power:0015.848, rpm:0430.298
+2022-04-11 16:46:10,832, [INFO], catapult, position:0.048, velocity: 01.533, current: -21.916, mechpower:0022.864, power:0030.333, rpm:0607.910
+2022-04-11 16:46:10,862, [INFO], catapult, position:0.106, velocity: 02.350, current: -23.101, mechpower:0043.458, power:0057.206, rpm:0888.977
+2022-04-11 16:46:10,883, [INFO], catapult, position:0.157, velocity: 02.911, current: -24.690, mechpower:0061.811, power:0080.568, rpm:1068.421
+2022-04-11 16:46:10,917, [INFO], catapult, position:0.224, velocity: 03.580, current: -22.511, mechpower:0090.829, power:0119.055, rpm:1408.081
+2022-04-11 16:46:10,936, [INFO], catapult, position:0.358, velocity: 04.499, current: -22.105, mechpower:0108.648, power:0142.486, rpm:1609.497
+2022-04-11 16:46:10,968, [INFO], catapult, position:0.465, velocity: 05.344, current: -24.410, mechpower:0138.010, power:0181.162, rpm:1883.240
+2022-04-11 16:46:10,989, [INFO], catapult, position:0.633, velocity: 05.913, current: -23.704, mechpower:0158.398, power:0207.732, rpm:2065.430
+2022-04-11 16:46:11,020, [INFO], catapult, position:0.764, velocity: 06.609, current: -22.834, mechpower:0176.982, power:0232.063, rpm:2350.159
+2022-04-11 16:46:11,039, [INFO], catapult, position:0.976, velocity: 07.333, current: -26.151, mechpower:0211.908, power:0278.113, rpm:2534.180
+2022-04-11 16:46:11,063, [INFO], catapult, position:1.124, velocity: 07.949, current: -24.623, mechpower:0232.985, power:0309.346, rpm:2753.906
+2022-04-11 16:46:11,082, [INFO], catapult, position:1.301, velocity: 08.549, current: -22.765, mechpower:0257.767, power:0337.709, rpm:2944.336
+2022-04-11 16:46:11,102, [INFO], catapult, position:1.476, velocity: 09.091, current: -23.187, mechpower:0281.368, power:0366.909, rpm:3129.273
+2022-04-11 16:46:11,125, [INFO], catapult, position:1.696, velocity: 09.642, current: -21.083, mechpower:0285.781, power:0370.869, rpm:3263.855
