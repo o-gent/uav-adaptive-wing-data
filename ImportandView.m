@@ -100,7 +100,7 @@ pitchAngle = atand((nosePositions(3,:)-tailPositions(3,:))./(nosePositions(1,:)-
 yawAngle = atand((nosePositions(2,:)-tailPositions(2,:))./(nosePositions(1,:)-tailPositions(1,:)))+90;
 roll_Angle = atand((portPositions(2,:)-starboardPositions(2,:))./(portPositions(1,:)-starboardPositions(1,:)));
 
-glideAngle = smooth(time,atand(velocities(3,:)./velocities(1,:)),12,'sgolay')';
+glideAngle = smooth(time,atand(velocities(1,:)./velocities(2,:)),12,'sgolay')';
 
 angleOfAttack = pitchAngle - glideAngle;
 
@@ -108,8 +108,8 @@ subplot(rows,colums,4)
 hold on
 plot(time,pitchAngle,'-','LineWidth',lineWidth,'DisplayName','Pitch Angle')
 plot(time,yawAngle,':','LineWidth',lineWidth,'DisplayName','Yaw Angle')
-%plot(time,glideAngle,'--','LineWidth',lineWidth,'DisplayName','Glide Angle')
-%plot(time,angleOfAttack,'-.','LineWidth',lineWidth,'DisplayName','Angle of Attack')
+plot(time,glideAngle,'--','LineWidth',lineWidth,'DisplayName','Glide Angle')
+plot(time,angleOfAttack,'-.','LineWidth',lineWidth,'DisplayName','Angle of Attack')
 plot(time,roll_Angle,'-.','LineWidth',lineWidth,'DisplayName','Roll')
 hold off
 
