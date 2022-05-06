@@ -1,0 +1,14 @@
+2022-05-04 16:33:46,689, [INFO], catapult, position:-0.033, velocity: 00.028, current: 006.403, mechpower:0000.142, power:0000.484, rpm:0050.354
+2022-05-04 16:33:46,720, [INFO], catapult, position:-0.028, velocity: 00.382, current: 017.875, mechpower:0003.362, power:0005.515, rpm:0247.192
+2022-05-04 16:33:46,751, [INFO], catapult, position:-0.007, velocity: 01.092, current: 021.766, mechpower:0015.376, power:0021.432, rpm:0494.385
+2022-05-04 16:33:46,781, [INFO], catapult, position:0.036, velocity: 01.868, current: 024.608, mechpower:0034.036, power:0046.556, rpm:0770.874
+2022-05-04 16:33:46,823, [INFO], catapult, position:0.133, velocity: 03.035, current: 025.497, mechpower:0067.362, power:0089.446, rpm:1155.396
+2022-05-04 16:33:46,852, [INFO], catapult, position:0.240, velocity: 03.932, current: 023.568, mechpower:0096.568, power:0128.250, rpm:1451.111
+2022-05-04 16:33:46,882, [INFO], catapult, position:0.365, velocity: 04.727, current: 024.009, mechpower:0124.507, power:0166.179, rpm:1724.854
+2022-05-04 16:33:46,914, [INFO], catapult, position:0.524, velocity: 05.572, current: 025.826, mechpower:0155.768, power:0208.548, rpm:2015.076
+2022-05-04 16:33:46,944, [INFO], catapult, position:0.705, velocity: 06.485, current: 025.733, mechpower:0187.900, power:0249.863, rpm:2300.720
+2022-05-04 16:33:46,974, [INFO], catapult, position:0.912, velocity: 07.278, current: 024.248, mechpower:0219.074, power:0288.229, rpm:2552.490
+2022-05-04 16:33:47,004, [INFO], catapult, position:1.139, velocity: 07.831, current: 013.404, mechpower:0199.740, power:0260.335, rpm:2651.367
+2022-05-04 16:33:47,034, [INFO], catapult, position:1.380, velocity: 08.079, current: 009.177, mechpower:0162.158, power:0212.289, rpm:2682.495
+2022-05-04 16:33:47,063, [INFO], catapult, position:1.625, velocity: 08.098, current: 009.936, mechpower:0136.088, power:0180.465, rpm:2661.438
+2022-05-04 16:33:47,094, [INFO], catapult, position:1.848, velocity: 08.112, current: 007.551, mechpower:0123.001, power:0161.670, rpm:2753.906
